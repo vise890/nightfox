@@ -3,6 +3,14 @@
 Toggle between light and dark variants of the FF Developer Edition Theme.
 
 
+# Screenshots
+In the dark theme:
+![Dark Theme](./img/dark.png)
+
+In the light theme:
+![Light Theme](./img/light.png)
+
+
 # Acknowledgements
 
 - Moon icon made by [Freepik](http://www.freepik.com) from
