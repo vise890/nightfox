@@ -20,6 +20,15 @@ $ cfx xpi
 ```
 
 ... And drag the generated `nightfox.xpi` into your add-ons view.
+
+
+# Testing
+
+```bash
+$ cfx test
+```
+
+
 # Acknowledgements
 
 - Moon icon made by [Freepik](http://www.freepik.com) from
