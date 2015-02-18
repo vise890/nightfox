@@ -11,6 +11,15 @@ In the light theme:
 ![Light Theme](./img/light.png)
 
 
+# Installation
+
+```bash
+$ git clone https://github.com/vise890/nightfox
+$ cd ./nightfox
+$ cfx xpi
+```
+
+... And drag the generated `nightfox.xpi` into your add-ons view.
 # Acknowledgements
 
 - Moon icon made by [Freepik](http://www.freepik.com) from
