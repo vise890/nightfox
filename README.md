@@ -13,6 +13,12 @@ In the light theme:
 
 # Installation
 
+Download it from
+[addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/nitefox/)
+
+
+# Building
+
 ```bash
 $ git clone https://github.com/vise890/nitefox
 $ cd ./nitefox
