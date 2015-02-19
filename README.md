@@ -1,4 +1,4 @@
-# Nightfox
+# Nitefox
 
 Toggle between light and dark variants of the FF Developer Edition Theme.
 
@@ -14,12 +14,12 @@ In the light theme:
 # Installation
 
 ```bash
-$ git clone https://github.com/vise890/nightfox
-$ cd ./nightfox
+$ git clone https://github.com/vise890/nitefox
+$ cd ./nitefox
 $ cfx xpi
 ```
 
-... And drag the generated `nightfox.xpi` into your add-ons view.
+... And drag the generated `nitefox.xpi` into your add-ons view.
 
 
 # Testing

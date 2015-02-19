@@ -1,4 +1,4 @@
-var nfx = require('./nightfox.js');
+var nfx = require('./nitefox.js');
 
 exports['test new_theme_from'] = function(assert) {
   assert.ok(nfx.new_theme_from('light') == 'dark');
